@@ -2,11 +2,38 @@
 
 ## Tabla de Contenidos
  
-1. [Modalidad de Parciales, fechas y tips](#modalidad-de-parciales-fechas-y-tips)
-2. [Programa de Estudio](#programa-de-estudio)
-3. [Clases Grabadas](#clases-grabadas)
-4. [Material Adicional](#material-adicional)
-5. [Definiciones o Conceptos](#definiciones-y-conceptos)
+1. [Clases Grabadas](#clases\grabadas)
+2. [Modalidad de Parciales, fechas y tips](#modalidad\de\parciales\fechas\y\tips)
+3. [Programa de Estudio](#programa\de\estudio)
+4. [Definiciones o Conceptos](#definiciones\y\conceptos)
+5. [Material Adicional](#material\adicional)
+
+### Clases grabadas
+
+[Lista de reproducción](https://www.youtube.com/playlist?list=PLmNr45tpqs7bFuVNABxiRsw2D9HxOD0Sl) en YouTube 
+
+1. [Parte A](https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view) o en [Youtube](https://youtu.be/Mg5wL8v5vPA) 
+	1. Temas: Introducción a la materia, modalidad de parciales, notas, cronograma. Duración: 54 min.
+	2. Material:
+		* [Libros](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NjE2MTIx/details) 
+		* [Modelo de Exámenes](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NDU3NTY5/details) 
+		* [Modelo de Exámenes 2](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NzgzMzA3/details) 
+		* [Solución de Exámenes del cuatrimestre](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5MTc5NzI4/details) 
+		* [Programa y Cronograma](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NjEwMTkz/details) 
+		* [Ejercicios y Problemas](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5ODk4NTMw/details) 
+1. - [Parte B](https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view) o en [Youtube](https://youtu.be/DgCZnpzf_Fc) 
+	1. Temas: Definición, Historia, Duración: 1.31hs
+	2. [Material](https://drive.google.com/file/d/1EG0yyhIG-RbgfGO351jK9havWqtj1ECD/view)
+2. [Parte A](https://drive.google.com/file/d/1Ha7i9rQ2BAmzPNR6eSzOxkKEm7nPH9Ch/view)  o en [Youtube](https://youtu.be/cE0yLRsCPho) 
+2. [Parte B](https://drive.google.com/file/d/1Lz6Ns_g__dpdGlc5D7M8iC9CUkpgJTin/view) o en [Youtube](https://youtu.be/TWvjM7IpYPc) 
+3. [Parte A](https://drive.google.com/file/d/1JFLhKmEwouQb6n6EdXk8UqGhV4C3uIFG/view)  o en [Youtube](https://youtu.be/hpAQtKs8Bww) 
+3. [Parte B](https://drive.google.com/file/d/1Rn1HVfDBL5orNYTaxFbxmws1lwDi8uOk/view)  o en [Youtube](https://youtu.be/tS9Wr07RKu4) 
+4. [Parte A](https://drive.google.com/file/d/14ZI11IdNw6nYPH4OicAmr7gD8QVgpdUW/view)  o en [Youtube](https://youtu.be/shf8TZ0njB0) 
+4. [Parte B](https://drive.google.com/file/d/1b-GgwFnyZ76T1mCBn80R1-zp39uoNaSp/view)  o en [Youtube](https://youtu.be/AF5nAk6S9yw)
+5. [Parte A](https://drive.google.com/file/d/1th1uCWXyMB8WLP-ZyM5Sre_wM-P7HBsZ/view) o en [Youtube](https://youtu.be/68sGSe-SFlw)
+5. [Parte B](https://drive.google.com/file/d/1XbSG3p6VDBAm09uTnXPzAM2XoXaLhuq6/view) o en [Youtube](https://youtu.be/1k6YB6W9Dhw)
+6. Parte A
+6. Parte B 
 
 ### Modalidad de parciales, fechas y tips.
 
@@ -15,21 +42,21 @@
 * Carpeta abierta, uso de excel, formulas, herramientas, documentación, etc.
 * No Tenes Office Instalado? En nuestro Discord se explica paso a paso la instalación en el canal de #soporte-técnico o con la cuenta de ISTEA podes tener la licencia de estudiante de Office 365 (mandar mensaje al grupo en caso de necesitar ayuda)
 * Prohibido _chatGPT_ y otros.
-* Los exámenes se hacen en un Excel(todo lo referente al procedimiento y cálculos, hacer un ejercicio por hoja - solapa) y en un Word(Respuestas finales en forma de frases)
-* [Libro](https://drive.google.com/file/d/1XYgpfh4zfx3HYygOncfZ2J9BJxsLRSa8/view) para estudiar mas completo: Estadística para Administración y Economia.
+* Los exámenes se hacen en un Excel (todo lo referente al procedimiento y cálculos, hacer un ejercicio por hoja - solapa) y en un Word (Respuestas finales en forma de frases)
+* [Libro](https://drive.google.com/file/d/1XYgpfh4zfx3HYygOncfZ2J9BJxsLRSa8/view) para estudiar mas completo: Estadística para Administración y Economía.
 
 #### Modo de notas:
-* 0 o 1 Ejercicios correctos o ausentes sera un 2
-* 2 ejercicios correctos sera un 4
-* 3 ejercicios correctos sera un 7
-* 4 ejercicios correctos sera un 10
+* 2 = 0 o 1 Ejercicios correctos o ausentes
+* 4 = 2 ejercicios correctos
+* 7 = 3 ejercicios correctos
+* 10 = 4 ejercicios correctos
 
 -> 1° parcial: 29/09/2023 hasta 01/10/2023 (Revision: 06/10/2023). 
 -> 2° parcial: 17/11/2023 hasta 19/11/2023 (Revision: 24/11/2023).
 -> Recuperatorio Integrador: 01/12/2023 hasta 03/12/2023 (Revision: 08/12/2023).
 
 #### Modo de Notas:
-* 8 Ejercicios, se deben realizar como mínimo 2 ejercicios correctamente de cada parte de la materia. Caso contrario, la nota sera 2.
+* 8 Ejercicios, se deben realizar como mínimo 2 ejercicios correctamente de cada parte de la materia. Caso contrario, la nota será 2.
 
 -> Final 1er llamado: 15/12/2023
 -> Final 2do llamado: 22/12/2023
@@ -39,11 +66,11 @@
 __Unidad 1: Estadística Descriptiva__
 >Organización de datos simples y agrupados
 >Intervalos de clase
->Media Aritmetica, Varianza y Desvio Estandar
+>Media Aritmética, Varianza y Desvío Estándar
 >Moda, Mediana y percentiles
 
 __Unidad 2: Probabilidad__
->Propiedades Basicas
+>Propiedades Básicas
 >Probabilidad marginal y probabilidad conjunta
 >Tabla de contingencia y diagrama de Venn
 >Sucesos compatibles e incompatibles y probabilidad de la union
@@ -58,97 +85,55 @@ __Unidad 3: Distribución de probabilidades__
 >Distribución Normal
 >Estimación mediante intervalos de confianza
 
+#### Descripción de las unidades:
+
 __Unidad 1: Estadística Descriptiva__
-Medidas descriptivas en Datos Simples: 
-* Tendencia Central 
-* Dispersion
-* Posición
-* Forma
-Medidas descriptivas en Datos Agrupados:
-* Media, Varianza y Desvío
-* Cuartiles y Deciles
-* Moda 
-* Otros
-Gráficos: 
-* Boxplot
-* Histograma 
-* Tallo y Hojas
-* Dispersion
-Medidas de Relación entre 2 Variables: 
-* Covarianza
-* Correlación 
-* Regresión Lineal
-* Determinación
+* Medidas descriptivas en Datos Simples: 
+	* Tendencia Central 
+	* Dispersión
+	* Posición
+	* Forma
+* Medidas descriptivas en Datos Agrupados:
+	* Media, Varianza y Desvío
+	* Cuartiles y Deciles
+	* Moda 
+	* Otros
+* Gráficos: 
+	* Boxplot
+	* Histograma 
+	* Tallo y Hojas
+	* Dispersion
+* Medidas de Relación entre 2 Variables: 
+	* Covarianza
+	* Correlación 
+	* Regresión Lineal
+	* Determinación
 
-Unidad 1: Probabilidad
-Combinatoria: 
-* Permutanción 
-* Combinación 
-* Variación
-Probabilidad:
-* Simple o Marginal 
-* Conjunta o Producto
-* Total o Suma 
-* Condicional
-Aplicaciones de Probabilidad y Media Ponderada: 
-* Teorema de Tchebycheff
-* Tablas de Mortalidad 
-* Analisis de Desiciones 
-* Riesgo e Incertidumbre
-Numeros Indice: 
-* Variación Abs y Rel 
-* Indice Canasta 
-* Inflación 
-* Crecimiento 
-* Desempleo
-
-### Clases grabadas
-
-[Lista de reproducción](https://www.youtube.com/playlist?list=PLmNr45tpqs7bFuVNABxiRsw2D9HxOD0Sl) en YouTube 
-
-1. [Parte A](https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view) o en [Youtube](https://youtu.be/Mg5wL8v5vPA) 
-Temas: Introducción a la materia, modalidad de parciales, notas, cronograma. Duración: 54 min.
-
-Material:
-* [Libros](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NjE2MTIx/details) 
-* [Modelo de Exámenes](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NDU3NTY5/details) 
-* [Modelo de Exámenes 2](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NzgzMzA3/details) 
-* [Solución de Exámenes del cuatrimestre](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5MTc5NzI4/details) 
-* [Programa y Cronograma](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NjEwMTkz/details) 
-* [Ejercicios y Problemas](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5ODk4NTMw/details) 
-
-1. - [Parte B](https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view) o en [Youtube](https://youtu.be/DgCZnpzf_Fc) 
-
-Temas: Definición, Historia, Duración: 1.31hs
-[Material](https://drive.google.com/file/d/1EG0yyhIG-RbgfGO351jK9havWqtj1ECD/view)
-
-2. [Parte A](https://drive.google.com/file/d/1Ha7i9rQ2BAmzPNR6eSzOxkKEm7nPH9Ch/view)  o en [Youtube](https://youtu.be/cE0yLRsCPho) 
-2. [Parte B](https://drive.google.com/file/d/1Lz6Ns_g__dpdGlc5D7M8iC9CUkpgJTin/view) o en [Youtube](https://youtu.be/TWvjM7IpYPc) 
-3. [Parte A](https://drive.google.com/file/d/1JFLhKmEwouQb6n6EdXk8UqGhV4C3uIFG/view)  o en [Youtube](https://youtu.be/hpAQtKs8Bww) 
-3. [Parte B](https://drive.google.com/file/d/1Rn1HVfDBL5orNYTaxFbxmws1lwDi8uOk/view)  o en [Youtube](https://youtu.be/tS9Wr07RKu4) 
-4. [Parte A](https://drive.google.com/file/d/14ZI11IdNw6nYPH4OicAmr7gD8QVgpdUW/view)  o en [Youtube](https://youtu.be/shf8TZ0njB0) 
-4. [Parte B](https://drive.google.com/file/d/1b-GgwFnyZ76T1mCBn80R1-zp39uoNaSp/view)  o en [Youtube](https://youtu.be/AF5nAk6S9yw)
-5. [Parte A](https://drive.google.com/file/d/1th1uCWXyMB8WLP-ZyM5Sre_wM-P7HBsZ/view) o en [Youtube](https://youtu.be/68sGSe-SFlw)
-5. [Parte B](https://drive.google.com/file/d/1XbSG3p6VDBAm09uTnXPzAM2XoXaLhuq6/view) o en [Youtube](https://youtu.be/1k6YB6W9Dhw)
-6. Parte A
-6. Parte B 
-
-### Material Adicional
-
-* Listas de videos - Profe Alex
-* [Lista](https://t.ly/AHAfd) Conceptos Básicos Estadística 
-* [Frecuencias](https://t.ly/6P6dy)
-* [Tipos de Gráficos Estadísticos](https://t.ly/YAAWH)
-* [Media Mediana y Moda](https://t.ly/Yc8WY) - Datos Sin Agrupar
-* [Cuartiles Deciles y Percentiles](https://t.ly/i52-j)
-* [Desviación Estándar, Varianza](https://www.youtube.com/watch?v=hLmsEFNaOgY&list=PLeySRPnY35dE25b7mIEUlsMCQqlhJFhyG)
-* [Combinaciones Permutaciones y Variaciones](https://www.youtube.com/watch?v=ec8TQjfQrGY&list=PLeySRPnY35dFF_kWyWL893posL7DNlFHa)
-* [Combinatoria](https://www.youtube.com/watch?v=tQh29_Noo9w&list=PLeySRPnY35dEtzvR4hUhigwTCHQcxP28l)
-* Axiomas - [Teorema de Bayes](https://www.youtube.com/watch?v=tWqy7wCEJn4&list=PLeySRPnY35dH7Pnamtm2xxaCuT6jxt1vn)
+__Unidad 2: Probabilidad__
+* Combinatoria: 
+	* Permutación 
+	* Combinación 
+	* Variación
+* Probabilidad:
+	* Simple o Marginal 
+	* Conjunta o Producto
+	* Total o Suma 
+	* Condicional
+* Aplicaciones de Probabilidad y Media Ponderada: 
+	* Teorema de Tchebycheff
+	* Tablas de Mortalidad 
+	* Análisis de decisiones 
+	* Riesgo e Incertidumbre
+* Números índice: 
+	* Variación Abs y Rel 
+	* Índice Canasta 
+	* Inflación 
+	* Crecimiento 
+	* Desempleo
 
 ### Definiciones y Conceptos:
 
-Estadística Descriptiva:
+#### Estadística Descriptiva:
 * Grupo A "Población" (Entera) > Si la estudiamos, el procedimiento se llama Censo. Puede ser "Finita" o "Infinitas".
 * Grupo B Sub-grupo de la población llamado "Muestra" > Si la estudiamos, el procedimiento se llama Muestreo. Puede ser Probabilista o No Probabilista.
 
@@ -159,13 +144,12 @@ Sacaremos medidas que nos resuman los datos de la Población / Muestra.
 * Esta Medida se llama (Estadísticos, Estimadores, Estadigrafos) para la Muestra.
 
 Definiciones:
-Cuando hacemos un Censo o un Muestreo, analizamos una o varias 
-* VARIABLES: pueden ser: 
-	* Cualitativa (su escala de medición puede ser Nominal u Ordinal, son CATEGORICAS)
-	* Cuantitativa (su escala de medición puede ser Intervalo o Racional, son NUMERICAS). 
+Cuando hacemos un Censo o un Muestreo, analizamos una o varias VARIABLES: pueden ser: 
+* Cualitativa (su escala de medición puede ser Nominal u Ordinal, son CATEGORICAS)
+* Cuantitativa (su escala de medición puede ser Intervalo o Racional, son NUMERICAS). 
 
 Ejemplos:
-* Nominal: Marca, Genero. 
+* Nominal: Marca, Género. 
 * Ordinal: Escala de Likert (Grafico con aguja, estrellas de hoteles, etc)
 * Intervalo: Temperatura, Notas de un Alumno.
 * Racional: Sueldo, Altura.
@@ -174,11 +158,11 @@ Sub-clasificación variables __NUMERICAS__:
 * Discretas: Números Enteros o Naturales.
 * Continuas: Números Reales.
 
-__DATOS__:
+DATOS:
 * Simples: No Agrupados, En Bruto, Crudos. Pueden venir No Ordenados u Ordenados (De Menor a Mayor o Viceversa), vienen sueltos en una columna.
 * Agrupados: Vienen en tabla o cuadro por categoría. Nos Permite visualizar Frecuencias y la Moda mas fácilmente.
 
-__MEDIDAS DESCRIPTIVAS__:
+MEDIDAS DESCRIPTIVAS:
 * De Tendencia Central o Centralización: Me dan una idea del "Centro" de la distribución.  
 * Media Aritmética Promedio Simple: Suma de los Números, los divido por la cantidad de números.
 * Mediana: Es el numero que esta en la posición intermedia. Formula: (n+1)/2
@@ -220,3 +204,15 @@ Gráficos Estadísticos:
 
 [__Seguir Aca__](https://youtu.be/DgCZnpzf_Fc?list=PLmNr45tpqs7bFuVNABxiRsw2D9HxOD0Sl&t=3882):
 
+### Material Adicional
+
+* Listas de videos - Profe Alex
+* [Lista](https://t.ly/AHAfd) Conceptos Básicos Estadística 
+* [Frecuencias](https://t.ly/6P6dy)
+* [Tipos de Gráficos Estadísticos](https://t.ly/YAAWH)
+* [Media Mediana y Moda](https://t.ly/Yc8WY) - Datos Sin Agrupar
+* [Cuartiles Deciles y Percentiles](https://t.ly/i52-j)
+* [Desviación Estándar, Varianza](https://www.youtube.com/watch?v=hLmsEFNaOgY&list=PLeySRPnY35dE25b7mIEUlsMCQqlhJFhyG)
+* [Combinaciones Permutaciones y Variaciones](https://www.youtube.com/watch?v=ec8TQjfQrGY&list=PLeySRPnY35dFF_kWyWL893posL7DNlFHa)
+* [Combinatoria](https://www.youtube.com/watch?v=tQh29_Noo9w&list=PLeySRPnY35dEtzvR4hUhigwTCHQcxP28l)
+* Axiomas - [Teorema de Bayes](https://www.youtube.com/watch?v=tWqy7wCEJn4&list=PLeySRPnY35dH7Pnamtm2xxaCuT6jxt1vn)
